@@ -65,7 +65,7 @@ button:hover {
 .weather-info p {
     font-size: 1.1em;
     margin: 5px 0;
-    color: white;
+    color: black;
     font-size: x-large;
     filter: drop-shadow(10px 3px 5px rgb(216, 214, 214));
 }
