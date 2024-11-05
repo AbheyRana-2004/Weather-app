@@ -29,10 +29,10 @@ body {
 }
 
 h1 {
-    color: black;
+    color: white;
 }
 h2 {
-    color: black;
+    color: white;
 }
 
 .search {
@@ -58,14 +58,14 @@ button {
 
 button:hover {
     background-color: #08786b;
-    color:black;
-    border: 1px solid black;
+    color:white;
+    border: 2px solid black;
 }
 
 .weather-info p {
     font-size: 1.1em;
     margin: 5px 0;
-    color: black;
+    color: white;
     font-size: x-large;
-    filter: drop-shadow(10px 3px 5px rgb(180, 19, 19));
+    filter: drop-shadow(10px 3px 5px rgb(216, 214, 214));
 }
